@@ -1,0 +1,19 @@
+﻿.foo {
+  float: left;
+  width: 20px;
+  height: 20px;
+  margin: 5px;
+  border: 1px solid rgba(0, 0, 0, .2);
+}
+
+.green {
+  background: #4cff00;
+}
+
+.red {
+  background: #ff0000;
+}
+
+.blue {
+  background: #0094ff;
+}
